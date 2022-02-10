@@ -1,3 +1,4 @@
+
 def main():
     n = int(input("Enter no. of rows: "))
     row = list()
@@ -19,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
