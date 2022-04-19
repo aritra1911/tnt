@@ -37,6 +37,8 @@ def main():
                   [10, 12, 19, 21,  3],
                   [11, 18, 25,  2,  9]])
 
+    print()
+
     if is_magic_square(A):
         print("A is a magic square")
     else:
